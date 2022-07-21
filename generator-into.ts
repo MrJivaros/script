@@ -1,3 +1,10 @@
+// utilisationn des generator
+
+/**
+ * 
+ * Extraire les numbers dans une chaine de string 
+ */
+
 const article = `
   Lorem Ipsum is 12 simply dummy text of the printing and 40 typesetting industry. 
   Lorem Ipsum has been the industry's standard dummy text ever since the 1500 s,

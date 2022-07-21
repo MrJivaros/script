@@ -1,4 +1,9 @@
+// Les label en JS
 
+/**
+ * 
+ * Petit exemple d'utilisation des label en JS
+ */
 const data = [
     {
       name: "person 1",

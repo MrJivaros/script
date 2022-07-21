@@ -1,3 +1,5 @@
+# Petit script pour telecharger une video YouTube avec Python
+
 from pytube import YouTube
 lien = 'https://youtu.be/XPSSgAPjTb4'
 video = YouTube(lien)

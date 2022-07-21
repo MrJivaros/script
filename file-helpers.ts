@@ -1,3 +1,10 @@
+// utilisation des generator en JS
+
+/**
+ * Petit algo pour lister les fichiers du repertoir courant  
+ */
+
+
 import * as fs from 'fs/promises';
 import { join } from 'path';
 async function* findFilesInCurrentDirectory(
